@@ -2,5 +2,5 @@
 <h2> Deploying on tomcat container from jenkins using ansible playbooks </h2>
 <body>
   <p>Add passwd env </p>
-  <p>byee!</p>
+  <p>bye!</p>
 </body>
